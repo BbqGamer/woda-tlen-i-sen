@@ -1,7 +1,7 @@
 ---
 title: WODA TLEN iSEN
 subtitle: .......................................................
-image: img/mountains.jpg
+image: img/starting-page.jpg
 blurb:
   heading: Co przeczytasz na tym blogu?
   text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
