@@ -1,6 +1,6 @@
 ---
-title: WODA TLEN iSEN
-subtitle: .......................................................
+title: .
+subtitle: .
 image: img/starting-page.jpg
 blurb:
   heading: Co przeczytasz na tym blogu?
