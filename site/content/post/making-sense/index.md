@@ -1,5 +1,5 @@
 ---
-title: Testowy post
+title: Od czego sie zaczeło
 date: 2024-08-26T13:30:54.451Z
 description: To jest testowy post, żeby sprawdzić możliwości strony.
 image: image001.png
