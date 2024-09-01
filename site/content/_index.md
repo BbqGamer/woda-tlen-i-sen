@@ -3,7 +3,7 @@ title: .
 subtitle: .
 image: img/starting-page.jpg
 blurb:
-  heading: Co przeczytasz na tym blogu?
+  heading: "Co przeczytasz na tym blogu? "
   text: "Brak głębokiego sensu życia, niedosyt wartościowych relacji, wypalenie
     zawodowe, ciągłe zabieganie i brak harmonii życiowej to typowe bolączki
     dzisiejszej cywilizacji. Większość z nas przechodzi trudniejsze momenty w
