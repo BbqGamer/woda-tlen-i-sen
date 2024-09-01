@@ -1,6 +1,6 @@
 ---
-title: Woda Tlen iSen
-subtitle: Stoicki blog
+title: WODA TLEN iSEN
+subtitle: .......................................................
 image: img/mountains.jpg
 blurb:
   heading: Co przeczytasz na tym blogu?
