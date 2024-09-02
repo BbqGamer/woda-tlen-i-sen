@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: .
 logo: img/arcos.png
 contact_entries:
   - heading: E-Mail
