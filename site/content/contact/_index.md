@@ -1,6 +1,6 @@
 ---
 title: .
-logo: img/arcos.png
+logo: img/starting-page.jpg
 contact_entries:
   - heading: E-Mail
     text: |
