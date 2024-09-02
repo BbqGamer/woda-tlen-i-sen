@@ -24,7 +24,7 @@ description: Dlaczego przygodę z filozofią Woda, Tlen i Sen zaczynamy od
   kreując swoje nawyki żywieniowe. Zaczniemy jednak od wody, która nie tylko
   stanowi fundament zdrowego odżywiania ale jest jednym z 3 filarów filozofii
   WODA Tlen i Sen.
-image: ""
+image: stoick-virtues.png
 ---
 XXX
 
