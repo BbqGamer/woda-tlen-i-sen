@@ -15,15 +15,20 @@ blurb:
     aby sentencja „co Cię nie zabije to Cię wzmocni”  odnosiło się do
     umiejętności wychodzenia z trudności silniejszym i odporniejszym. "
 intro:
-  heading: Energia życiowa
-  text: "Są trzy filary energii życiowej: woda, tlen i sen"
+  heading: "                                                                         \
+    ENERGIA ŻYCIOWA "
+  text: "                                                                                      \
+    (QI)"
 products:
   - image: img/woda.png
-    text: WODA
+    text: "                                                                               \
+      WODA"
   - image: img/tlen.png
-    text: TLEN
+    text: "                                                                                 \
+      TLEN"
   - image: img/sen.png
-    text: iSEN
+    text: "                                                                              \
+      iSEN"
 values:
   heading: Wartości stoickie
   text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
