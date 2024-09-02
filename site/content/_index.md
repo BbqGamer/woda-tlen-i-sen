@@ -18,12 +18,12 @@ intro:
   heading: Energia życiowa
   text: "Są trzy filary energii życiowej: woda, tlen i sen"
 products:
-  - image: img/woda.jpg
-    text: "Woda "
-  - image: img/tlen.jpg
-    text: Tlen
-  - image: img/sen.jpg
-    text: i Sen
+  - image: img/woda.png
+    text: WODA
+  - image: img/tlen.png
+    text: TLEN
+  - image: img/sen.png
+    text: iSEN
 values:
   heading: Wartości stoickie
   text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
