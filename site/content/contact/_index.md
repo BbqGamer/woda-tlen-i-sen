@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-logo: img/screen-shot-2024-08-10-at-12.21.09.png
+logo: img/arcos.png
 contact_entries:
   - heading: E-Mail
     text: |
