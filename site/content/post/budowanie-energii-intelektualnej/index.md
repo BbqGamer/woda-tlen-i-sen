@@ -34,9 +34,10 @@ description: Budowanie energii intelektualnej (SOPHIA) stanowi integralną czę�
   rozumieniu „zużyć się” czyli do końca być aktywnym zarówno fizycznie ja i
   umysłowo - wybór należy w tej kwesti w bardzo dużym stopniu zależy tylko do
   Ciebie.
+image: ei.png
 ---
 ```
 
 ```
 
-![](ei.png)
+![]()
