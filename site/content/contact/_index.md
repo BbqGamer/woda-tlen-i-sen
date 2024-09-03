@@ -8,6 +8,4 @@ contact_entries:
   - heading: "Working hours "
     text: Napisz do mnie , odpowiem  w ciągu 24h
 ---
-
-
-ARCOS ( Arek - Coach - Stoick)
+# **ARCOS ( Arek - Coach - Stoic)**
